@@ -4,7 +4,7 @@
 
 **Token Weather Report (TWR)** is a real-time monitoring service for AI API infrastructure health, styled after weather and traffic broadcast services. It translates raw provider status data into universally understood conditions — so anyone from engineers to executives can assess AI service reliability at a glance.
 
-**Live Dashboard:** *Coming soon*
+**Live Dashboard:** [https://tokenweather.com/](https://tokenweather.com/)
 
 ---
 
