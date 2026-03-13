@@ -4,9 +4,9 @@
 
 **Token Weather Report** is a real-time AI API infrastructure health monitoring service that translates raw provider status data into universally understood weather and traffic broadcast language.
 
-**Live:** [token-weather-report.web.app](https://token-weather-report.web.app)
+**Live:** [https://tokenweather.com](https://tokenweather.com)
 
-**Source:** [github.com/MushroomFleet/token-weather](https://github.com/MushroomFleet/token-weather)
+![tokenweather-logo](https://raw.githubusercontent.com/MushroomFleet/token-weather/refs/heads/main/img/TWR-logo.png)
 
 ---
 
